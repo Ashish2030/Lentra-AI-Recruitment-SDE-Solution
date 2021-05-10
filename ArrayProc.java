@@ -1,4 +1,4 @@
-/* Save this in a file called Main.java to compile and test it */
+/* Save this in a file called Main.java to compile and test it    */
 
 import java.util.*;
 import java.io.*;
